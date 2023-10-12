@@ -1,6 +1,4 @@
 #!/bin/bash
-export PYTHONPATH=../
-
 for i in 'Twitter15' 'Twitter17' 
 do
     echo ${i}

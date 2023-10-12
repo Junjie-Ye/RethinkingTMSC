@@ -13,6 +13,9 @@ import json
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
 from torch.utils.data.distributed import DistributedSampler
 
+import sys
+sys.path.append('../../')
+
 from Code.training.tokenization import BertTokenizer
 from Code.training.mm_modeling import (BertForSequenceClassification, ResNetForSequenceClassification, VitForSequenceClassification,
                                      ResBertForMMSequenceClassification, VitBertForMMSequenceClassification, Res22BertForMMSequenceClassification, Res2BertForMMSequenceClassification,
