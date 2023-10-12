@@ -1,0 +1,13 @@
+apex==0.9.10dev
+boto3==1.16.63
+botocore==1.19.63
+numpy==1.20.2
+Pillow==9.3.0
+Pillow==10.0.1
+Requests==2.31.0
+scikit_learn==1.0.2
+tensorflow==2.14.0
+torch==1.10.0+cu111
+torchvision==0.11.0+cu111
+tqdm==4.51.0
+transformers==4.22.1
