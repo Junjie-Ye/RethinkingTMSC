@@ -61,3 +61,17 @@ Oct. 12, 2023
 ## Acknowledgements
 
 - Most of the codes are based on the codes provided by huggingface: https://github.com/huggingface/transformers.
+
+## Cite
+
+- If you find our code is helpful, please cite our paper
+```bibtex
+@misc{ye2023rethinkingtmsc,
+      title={RethinkingTMSC: An Empirical Study for Target-Oriented Multimodal Sentiment Classification}, 
+      author={Junjie Ye and Jie Zhou and Junfeng Tian and Rui Wang and Qi Zhang and Tao Gui and Xuanjing Huang},
+      year={2023},
+      eprint={2310.09596},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
