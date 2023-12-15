@@ -66,12 +66,27 @@ Oct. 12, 2023
 
 - If you find our code is helpful, please cite our paper
 ```bibtex
-@misc{ye2023rethinkingtmsc,
-      title={RethinkingTMSC: An Empirical Study for Target-Oriented Multimodal Sentiment Classification}, 
-      author={Junjie Ye and Jie Zhou and Junfeng Tian and Rui Wang and Qi Zhang and Tao Gui and Xuanjing Huang},
-      year={2023},
-      eprint={2310.09596},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{DBLP:conf/emnlp/YeZTWZG023,
+  author       = {Junjie Ye and
+                  Jie Zhou and
+                  Junfeng Tian and
+                  Rui Wang and
+                  Qi Zhang and
+                  Tao Gui and
+                  Xuanjing Huang},
+  editor       = {Houda Bouamor and
+                  Juan Pino and
+                  Kalika Bali},
+  title        = {RethinkingTMSC: An Empirical Study for Target-Oriented Multimodal
+                  Sentiment Classification},
+  booktitle    = {Findings of the Association for Computational Linguistics: {EMNLP}
+                  2023, Singapore, December 6-10, 2023},
+  pages        = {270--277},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2023},
+  url          = {https://aclanthology.org/2023.findings-emnlp.21},
+  timestamp    = {Wed, 13 Dec 2023 17:20:20 +0100},
+  biburl       = {https://dblp.org/rec/conf/emnlp/YeZTWZG023.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
