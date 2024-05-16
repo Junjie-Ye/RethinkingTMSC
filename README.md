@@ -1,6 +1,6 @@
-# RethinkingTMSC
+# [EMNLP 2023] RethinkingTMSC
 
-## RethinkingTMSC: An Empirical Study for Target-Oriented Multimodal Sentiment Classification
+## [EMNLP 2023] RethinkingTMSC: An Empirical Study for Target-Oriented Multimodal Sentiment Classification
 > Dataset and codes for paper "RethinkingTMSC: An Empirical Study for Target-Oriented Multimodal Sentiment Classification"
 
 Junjie Ye
